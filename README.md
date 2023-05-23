@@ -21,6 +21,14 @@
 - 개발 단계에서 용이하지만, 네트워킹이 필요없는 제품의 경우 최종적으로는 타겟 보드의 NAND Flash에 모두 저장한다.
 
 ### 백업 방법
+1. Linux shut down
+```
+sudo shutdown -h now
+```
+2. 압축
+- Ubuntu14.04.05 - 복사본.vmx
+- Ubuntu14.04.05.vmx
+- Ubuntu14.04.05-dis1.vmdk
 
 
 #### 명령어
